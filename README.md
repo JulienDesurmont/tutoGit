@@ -1,2 +1,0 @@
-# tutoGit
-Tutoriel de Git
